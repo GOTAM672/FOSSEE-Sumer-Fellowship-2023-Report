@@ -12,3 +12,7 @@ On this day I read all the [documents](https://drive.google.com/drive/folders/1H
 
 
 ![](./ModuleHierarchy.png)
+
+### Day 3 [19-05-2023]
+
+On this day I revised my python basics, learned OOPS in python and also learned about PyQt5.
