@@ -8,4 +8,7 @@ Also fork and clone osdag repository to my local computer and configured it with
 
 ### Day 2 [18-05-2023]
 
-On this day I read all the [documents](https://drive.google.com/drive/folders/1H3WVOoegyfATZ-HNCgjrJ3VXI1zjh5sd) that related to Osdag software. Tried to understand `Hierarchy of Modules` , How to add new modules, what is `Input Dock` and `Output Dock` in modules.
+On this day I read all the [documents](https://drive.google.com/drive/folders/1H3WVOoegyfATZ-HNCgjrJ3VXI1zjh5sd) that related to Osdag software. Tried to understand `Hierarchy of Modules` , How to add new modules, what is `Input Dock` and `Output Dock` in modules.   
+
+
+![](./ModuleHierarchy.png)
