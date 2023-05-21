@@ -16,3 +16,7 @@ On this day I read all the [documents](https://drive.google.com/drive/folders/1H
 ### Day 3 [19-05-2023]
 
 On this day I revised my python basics, learned OOPS in python and also learned about PyQt5.
+
+### Day 4 & 5 [20-05-2023 & 21-05-2023]
+
+Tried to understand code base.
